@@ -1,8 +1,7 @@
 package main
 
-// Created by: Abdulmogeeb AlHumaid - abdulmogeeb@gmail.com
-// Go port: converted from the original PHP script.
-// Licence: nothing, just use it and enjoy it.
+// Created by: Michael
+// Licence: MIT
 
 import (
 	"bytes"
